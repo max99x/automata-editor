@@ -1,0 +1,6 @@
+b*+ab*a+bbba*a*b*a
+a((s(1+2)(3+4)r)*)*b
+a((s(a+s)*(a+r)r)*)*b
+a((b(a+b)*(a+b)b)*)*b
+a((b(a+b)*(a+b)b)*)*b+ab*a+bbba*a*b*a
+a(1+(3+(4+5)*)*)c
