@@ -102,7 +102,7 @@ def renderMachine(fa, outfile='temp.png', format='png', size=None):
     try:
         f.write(gvcode)
     except:
-        raise Exception
+        raise
     finally:
         f.close()
 
